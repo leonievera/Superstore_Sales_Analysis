@@ -1,3 +1,7 @@
+# Overview
+
+# Questions
+
 Sales & Revenue Performance
 
 Which product categories/sub-categories generate the most sales and profit? (bar chart)
@@ -30,3 +34,16 @@ Product Performance
 Top 10 best-selling and worst-selling products
 Which sub-categories have the highest discount rates, and does that correlate with lower profit?
 Quantity ordered vs. revenue — are high-volume products also high-revenue?
+
+# Used Tools
+- Python: the base of the analysis
+- Used libraries:
+  - Pandas Library: to analyze the data 
+  - Matplotlib Library: to visualize the data 
+  - Seaborn Library: to customize the visuals
+- Jupyter Notebooks: to write and run the Python scripts
+- PyCharm: to execute the Python scripts
+- Git & GitHub: for version control and sharing the project
+
+# The Analysis
+
