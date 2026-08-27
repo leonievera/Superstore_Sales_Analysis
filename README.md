@@ -2,7 +2,7 @@
 
 # Questions
 
-- Which product categories generate the most sales and profit? 
+- Which product category is the most profitable? 
 - How do sales trend over time? 
 - Which states/regions/cities drive the most revenue?
 - What's the sales distribution across customer segments (Consumer, Corporate, Home Office)? 
@@ -20,11 +20,22 @@
 
 # The Analysis
 
-## 1. Product Categories
+## 1. Profitable Product Categories
+
+To find the product category that is the most profitable,
+
+Details: [02_product_category.ipynb](02_product_category.ipynb)
 
 ### Results
 
+![Category Profit Distribution](02_product_category.png) <br/>
+*Bar graph visualizing the most profitable product category.*
+
 ### Insights
+
+- Technology generates the most profit with $150K and is the most profitable category.
+- Office Supplies is close second with $130K and also a good category.
+- Furniture is significantly behind with $20K. This could be due to low margins, high discounting or low sales volume and is worth a deeper analysis.
 
 ## 2. Sales Trend
 
