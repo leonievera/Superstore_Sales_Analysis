@@ -22,7 +22,7 @@
 
 ## 1. Profitable Product Categories
 
-To find the product category that is the most profitable,
+To find the product category that is the most profitable, I grouped by the categories and aggregated the profit per category and sorted them by their total profit.
 
 Details: [02_product_category.ipynb](02_product_category.ipynb)
 
@@ -39,9 +39,23 @@ Details: [02_product_category.ipynb](02_product_category.ipynb)
 
 ## 2. Sales Trend
 
+For the sales trend, I filtered the data so that only entries for this current year is remaining. Then I aggregated the amount of orders per Sub-Category and per month.
+
+Details: [03_sales_trend.ipynb](03_sales_trend.ipynb)
+
 ### Results
 
+![Sales Trend across Sub-Categories for 2026](03_sales_trend.png) <br/>
+*Line graph visualizing the sales trend of the top 6 Sub-Categories for 2026.*
+
 ### Insights
+
+- Binders lead across most months and stay consistently high. 
+- Paper hits the single highest point mid-year, when the supply needs to be restocked. 
+- Phones have a sharp dip in April, this might be due to a stockout, a seasonal lull or missing data.
+- Every Sub-Category dips in February and rebounds in March. This pattern suggests a seasonal or business-cycle effect.(e.g. restocking for the new year)
+- All Sub-Categories are rising mid-year. This might be due to ordering semi-annual.
+- Now in August, most Sub-Categories are reclining again.
 
 ## 3. Regional Revenue
 
