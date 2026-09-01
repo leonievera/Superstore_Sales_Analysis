@@ -70,13 +70,22 @@ To look for the Cities with the most profit, I only analyzed data concerning pas
 
 - For this year, Seattle is the leading market so far and generates a big portion of the profit.
 - The first 3 Cities (Seattle, New York and Los Angeles) for an upper tier where the profits are all above \$7000. The last 3 Cities form the lower tier (Jackson, San Francisco and Clumbus) where the Profits are around $4000. This shows sights of the Cities who contribute a lot followed by a long tail.
-- Remarking is that Jackson is a much smaller market than San Francisco but it outperforms it. This is worth analyzing in more detail.
+- Remarking is that Jackson is a much smaller market than San Francisco, but it outperforms it. This is worth analyzing in more detail.
 
 ## 4. Distribution across Segments
 
+To look at the Sales Distribution across the Segments, I aggregated the Sales for each segment.
+
 ### Results
 
+![Sales Distribution across Segments in 2026](05_distribution_segments.png) <br/>
+*Pie chart visualizing the Sales Distribution across the Segments in 2026.*
+
 ### Insights
+
+- The Segment Consumer is the clear leader and takes up almost half of total Sales.
+- Even thought Home Office is trending and growing, it has the smallest share. This might be due to a smaller addressable market or a lower average order value.
+- All three segments contribute meaningfully to overall Sales.
 
 ## 5. Products
 
