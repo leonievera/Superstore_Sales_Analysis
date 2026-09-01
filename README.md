@@ -39,7 +39,7 @@ Details: [02_product_category.ipynb](02_product_category.ipynb)
 
 ## 2. Sales Trend
 
-For the sales trend, I filtered the data so that only entries for this current year is remaining. Then I aggregated the amount of orders per Sub-Category and per month.
+For the sales trend, I filtered the data so that only entries for the past 8 months are remaining. Then I aggregated the amount of orders per Sub-Category and per month.
 
 Details: [03_sales_trend.ipynb](03_sales_trend.ipynb)
 
@@ -59,9 +59,18 @@ Details: [03_sales_trend.ipynb](03_sales_trend.ipynb)
 
 ## 3. Regional Revenue
 
+To look for the Cities with the most profit, I only analyzed data concerning past January until now. Then I aggregated the Profit for each City and only used the top 6 Cities.
+
 ### Results
 
+![The 6 Cities with the most Profit in 2026](04_regional_revenue.png) <br/>
+*Bar graph visualizing the 6 Cities with the most Profit in 2026.*
+
 ### Insights
+
+- For this year, Seattle is the leading market so far and generates a big portion of the profit.
+- The first 3 Cities (Seattle, New York and Los Angeles) for an upper tier where the profits are all above \$7000. The last 3 Cities form the lower tier (Jackson, San Francisco and Clumbus) where the Profits are around $4000. This shows sights of the Cities who contribute a lot followed by a long tail.
+- Remarking is that Jackson is a much smaller market than San Francisco but it outperforms it. This is worth analyzing in more detail.
 
 ## 4. Distribution across Segments
 
