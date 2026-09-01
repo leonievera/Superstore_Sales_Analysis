@@ -61,6 +61,8 @@ Details: [03_sales_trend.ipynb](03_sales_trend.ipynb)
 
 To look for the Cities with the most profit, I only analyzed data concerning past January until now. Then I aggregated the Profit for each City and only used the top 6 Cities.
 
+Details: [04_regional_revenue.ipynb](04_regional_revenue.ipynb)
+
 ### Results
 
 ![The 6 Cities with the most Profit in 2026](04_regional_revenue.png) <br/>
@@ -76,6 +78,8 @@ To look for the Cities with the most profit, I only analyzed data concerning pas
 
 To look at the Sales Distribution across the Segments, I aggregated the Sales for each segment.
 
+Details: [05_distribution_segments.ipynb](05_distribution_segments.ipynb)
+
 ### Results
 
 ![Sales Distribution across Segments in 2026](05_distribution_segments.png) <br/>
@@ -88,6 +92,10 @@ To look at the Sales Distribution across the Segments, I aggregated the Sales fo
 - All three segments contribute meaningfully to overall Sales.
 
 ## 5. Products
+
+To find out, which products are sold the most and the least, I counted how many times the products were ordered.
+
+Details: [06_products.ipynb]()
 
 ### Results
 
