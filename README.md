@@ -33,9 +33,9 @@ Details: [02_product_category.ipynb](02_product_category.ipynb)
 
 ### Insights
 
-- Technology generates the most profit with $150K and is the most profitable category.
-- Office Supplies is close second with $130K and also a good category.
-- Furniture is significantly behind with $20K. This could be due to low margins, high discounting or low sales volume and is worth a deeper analysis.
+- Technology generates the most profit with over $25K and therefore is the most profitable category.
+- Office Supplies is close second and also a profitable category.
+- Furniture is significantly behind with under $5K. This could be due to low margins, high discounting or low sales volume and is worth a deeper analysis.
 
 ## 2. Sales Trend
 
