@@ -95,8 +95,15 @@ Details: [05_distribution_segments.ipynb](05_distribution_segments.ipynb)
 
 To find out, which products are sold the most and the least, I counted how many times the products were ordered.
 
-Details: [06_products.ipynb]()
+Details: [06_products.ipynb](06_products.ipynb)
 
 ### Results
 
+![Top and Bottom 10 Products by Units Sold](06_products.png)
+
 ### Insights
+
+- The top 3 best-selling products have significant gaps between them and after them sales flatten and leaves a long tail.
+- Several binders are in the best-selling products, suggesting that these supplies are a core category and worth prioritizing. 
+- Different furniture appears in both top-selling and least-selling products, which shows that performance varies widely in this category.
+- The low numbers in quantity sold in the least-sold products show that there is practically no demand. These products are worth discontinuing.
